@@ -85,3 +85,44 @@
 
 [Topology-aware Graph Diffusion Model with Persistent Homology](https://openreview.net/forum?id=ZC0wgCabT2)
 
+
+## Time series
+
+### Data
+
+
+### Model
+
+[TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://openreview.net/forum?id=1CLzLXSFNn)
+
+[TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting](https://openreview.net/forum?id=rDe9yQQYKt)
+
+[Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://openreview.net/forum?id=KMCJXjlDDr)
+
+[S4M: S4 for multivariate time series forecasting with Missing values](https://openreview.net/forum?id=BkftcwIVmR)
+
+[]()
+
+### Probabilistic
+
+[Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting](https://openreview.net/forum?id=HdUkF1Qk7g)
+
+[	KooNPro: A Variance-Aware Koopman Probabilistic Model Enhanced by Neural Processes for Time Series Forecasting](https://openreview.net/forum?id=5oSUgTzs8Y)
+
+
+
+### Rejected
+
+[TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations](https://openreview.net/forum?id=blgJ4g00rC)
+
+[Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](https://openreview.net/forum?id=qVyjN01x4P)
+
+[PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting](https://openreview.net/forum?id=PQzZrRNynC)
+
+[VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters](https://openreview.net/forum?id=IEs29RYxfK)
+
+[CMamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting](https://openreview.net/forum?id=OclHGmt2ZM)
+
+[Diffusion Auto-regressive Transformer for Effective Self-supervised Time Series Forecasting](https://openreview.net/forum?id=yGv5GzlBwr)
+
+[UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting](https://openreview.net/forum?id=cuFnNExmdq)
