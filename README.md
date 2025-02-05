@@ -67,3 +67,21 @@
 [Towards Explaining the Power of Constant-depth Graph Neural Networks for Linear Programming](https://openreview.net/forum?id=INow59Vurm)
 
 [Improving Graph Neural Networks by Learning Continuous Edge Directions](https://openreview.net/forum?id=iAmR7FfMmq)
+
+
+
+## Topology 
+
+### accepted
+
+[E(n) Equivariant Topological Neural Networks](https://openreview.net/forum?id=Ax3uliEBVR)
+
+
+### Rejected
+
+[TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration](https://openreview.net/forum?id=ZaSOGF8Ojq)
+
+[ToRL: Topology-preserving Representation Learning Of Object Deformations From Images](https://openreview.net/forum?id=rUqcugZDUl)
+
+[Topology-aware Graph Diffusion Model with Persistent Homology](https://openreview.net/forum?id=ZC0wgCabT2)
+
