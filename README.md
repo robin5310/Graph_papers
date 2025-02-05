@@ -1,6 +1,6 @@
-# Graph_papers
+# ICLR2025 papers
 
-## ICLR 2025
+## Graph
 
 ### Network & Architecture & Learning
 [Beyond Random Masking: When Dropout meets Graph Convolutional Networks](https://openreview.net/forum?id=PwxYoMvmvy)
